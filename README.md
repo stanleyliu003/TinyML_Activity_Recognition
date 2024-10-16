@@ -1,1 +1,1 @@
-# TinyML_Activity_Recognition
+# TinyML-Activity-Recognition
