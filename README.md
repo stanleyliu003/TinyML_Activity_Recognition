@@ -1,0 +1,1 @@
+# TinyML_Activity_Recognition
